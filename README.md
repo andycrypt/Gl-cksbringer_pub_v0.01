@@ -1,6 +1,7 @@
 # Glücksbringer
 
 Fun Project, get a basic view on c++ 
+Move datastore.json to exe folder --> will improve sometime
 
 Why d*, cause i like the style, not performance optimized...
 
